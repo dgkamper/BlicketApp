@@ -2,11 +2,19 @@
 
 The classic blicket detector comes for iOS. 
 
-# Requirements
+## Requirements
 - The latest version of XCode
 - The latest iPadOS version on the iPad
 - An iPad compatible keyboard
 
-Repository Structure:
+## Repository Structure
+
+```
+.
+├── README.md
+├── Blicket - Detector - V1
+└── Blicket - Detector - V2
+
+```
 
 
